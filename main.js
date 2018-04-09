@@ -1,1 +1,1 @@
-var name = "Sw Vivekananda"
+var name = "Swami Vivekananda"
